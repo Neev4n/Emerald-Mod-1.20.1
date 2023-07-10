@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 public class EmeraldMod implements ModInitializer {
 	public static final String MOD_ID = "emeraldmod";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
-
+	//important comment
 	@Override
 	public void onInitialize() {
 
